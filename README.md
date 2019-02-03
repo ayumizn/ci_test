@@ -1,5 +1,5 @@
 # ci_test
-branchA!
+branch12!
 master
 branchA!
 branch10
